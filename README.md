@@ -30,3 +30,7 @@ In this section, we will prediction with Linear Regression and Cousins
 7. ElasticNet Regression
 
   📌 It is to find the sum squares error by applying the minimizing coefficients and a penalty to these coefficients. ElasticNet combines L1 and L2 approaches.
+
+8. Support Vector Regression(SVR)
+
+  📌 The goal is to define the curve so that it can get the maximum point in the range of a margin with the smallest error.
